@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <h3 align="center">LAB ASSIGNMENT 5</h3>
 
 <div align="center">
@@ -159,3 +160,6 @@ Type `compgen` or `HISTORY BRIEF` to see the list of commands it can perform.
 
 See also the list of [contributors](https://github.com/mayank-pq2q4/LAB4/graphs/contributors) who participated in this project.
 ## The code will be merged after wed: 1800 hours
+=======
+# LAB5
+>>>>>>> 99e697a4a492cd801054393eab80d0406690b294
